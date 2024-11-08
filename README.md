@@ -35,14 +35,16 @@ To execute the script, install the following R packages:
 3. **Paste the Output**:  
    Copy the output from the console and paste it into [SudokuExchange](https://sudokuexchange.com) or any other preferred Sudoku player.
 
-4. Example Output:
+4. **Example Output**:
 
 $value
 [1] "625047100030008720007162450040910030079000005083704001900270060304006000000000518" 
 [2] "000070200005001800000000049008005000906010000751360000180090002000000360007000900" 
 [3] "105070000004003900000000068090007020000002807003040000008000030940500000000004200"  
 
-Each of these strings are for Easy, Hard and Medium levels respectively. Copy the string between without "" and paste on Sudoku Exchange. 
+Each of these strings are for Easy, Hard and Medium levels respectively. Copy the string between without "" and paste on Sudoku Player. 
+
+For example, 000070200005001800000000049008005000906010000751360000180090002000000360007000900 can be pasted on [SudokuExchange](https://sudokuexchange.com) 
 
 
 ## 
