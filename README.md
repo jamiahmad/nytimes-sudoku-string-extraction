@@ -47,10 +47,8 @@ Each of these strings are for Easy, Hard and Medium levels respectively. Copy th
 For example, 000070200005001800000000049008005000906010000751360000180090002000000360007000900 can be pasted on [SudokuExchange](https://sudokuexchange.com) 
 
 
-## 
-The script extracts key puzzle values for all the Daily Puzzles (Easy, Medium, Hard) from the NYT sudoku page and returns them in a list format. You can copy these values into a sudoku player application of your choice.
 
-## Notes
+## Disclaimer
 
 This project is strictly for personal and educational use only. I mean no harm or disruption to New York Times servers, and I advise using this script responsibly and sparingly. Please avoid excessive or automated requests to ensure we respect their resources.
 
