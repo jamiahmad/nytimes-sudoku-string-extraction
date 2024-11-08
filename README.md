@@ -1,7 +1,7 @@
 
 # NYT Sudoku Puzzle Scraper
 
-This project extracts puzzle values from the [New York Times](https://www.nytimes.com/puzzles/sudoku) daily Sudoku puzzle and formats them for easy pasting into your favorite Sudoku player interface. Specifically, it’s designed for use with [SudokuExchange](https://sudokuexchange.com). 
+This project extracts puzzle values from the [New York Times](https://www.nytimes.com/puzzles/sudoku) daily Sudoku puzzle and formats them for easy pasting into your favorite Sudoku player interface. Specifically, it’s designed for use with [Sudoku Exchange](https://sudokuexchange.com). 
 
 You can run this script either locally or on [Google Colab](https://colab.research.google.com/drive/1JqdtMlf2ikDhCLXVxnU2c-yK6JJTI669?usp=sharing).
 
@@ -33,7 +33,7 @@ To execute the script, install the following R packages:
 
 
 3. **Paste the Output**:  
-   Copy the output from the console and paste it into [SudokuExchange](https://sudokuexchange.com) or any other preferred Sudoku player.
+   Copy the output from the console and paste it into [Sudoku Exchange](https://sudokuexchange.com) or any other preferred Sudoku player.
 
 4. **Example Output**:
 
@@ -44,7 +44,7 @@ $value
 
 Each of these strings are for Easy, Hard and Medium levels respectively. Copy the string between without "" and paste on Sudoku Player. 
 
-For example, 000070200005001800000000049008005000906010000751360000180090002000000360007000900 can be pasted on [SudokuExchange](https://sudokuexchange.com) 
+For example, 000070200005001800000000049008005000906010000751360000180090002000000360007000900 can be pasted on [Sudoku Exchange](https://sudokuexchange.com) 
 
 
 
