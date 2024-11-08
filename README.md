@@ -1,7 +1,7 @@
 
 # NYT Sudoku Puzzle Scraper
 
-This project extracts the puzzle values from the New York Times daily hard sudoku puzzle and formats them for easy pasting into a preferred sudoku player interface.
+This project extracts the puzzle values from the New York Times daily hard sudoku puzzle and formats them for easy pasting into a preferred sudoku player interface, I have made it specifically for https://sudokuexchange.com 
 
 ## Requirements
 
