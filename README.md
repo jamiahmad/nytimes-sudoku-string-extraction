@@ -26,6 +26,8 @@ Execute the following R code to extract puzzle data:
 ### 3. Interpreting Output
 The script extracts key puzzle values from the NYT sudoku page and returns them in a list format, it will output the puzzle for all three levels(Easy, Medium and Hard). You can copy these values into a sudoku player application of your choice.
 
+### Alternatively: 
+You may run the script on google collab here: https://colab.research.google.com/drive/1JqdtMlf2ikDhCLXVxnU2c-yK6JJTI669?usp=sharing
 
 ## Note
 
