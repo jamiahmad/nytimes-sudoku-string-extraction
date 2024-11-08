@@ -1,7 +1,7 @@
 
 # NYT Sudoku Puzzle Scraper
 
-This project extracts the puzzle values from the New York Times daily hard sudoku puzzle and formats them for easy pasting into a preferred sudoku player interface. This script uses `rvest` to scrape data from the NYT puzzle page, processes it with `tidyverse` functions, and formats the output for convenient use.
+This project extracts the puzzle values from the New York Times daily hard sudoku puzzle and formats them for easy pasting into a preferred sudoku player interface.
 
 ## Requirements
 
